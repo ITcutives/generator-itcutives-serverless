@@ -1,4 +1,7 @@
 # generator-itcutives-serverless [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ITcutives/generator-itcutives-serverless.svg)](https://greenkeeper.io/)
+
 > Generator for Serverless project with ITcutives modules
 
 ## Installation
