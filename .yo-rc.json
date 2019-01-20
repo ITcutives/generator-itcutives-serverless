@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Riddhi Tilara",
+      "authorEmail": "riddhi@itcutives.com",
+      "authorUrl": "http://itcutives.com"
+    }
+  }
+}
